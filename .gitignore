@@ -1,0 +1,8 @@
+data
+venv
+.idea
+__pycache__
+/analysis/.ipynb_checkpoints
+/analysis/__pycache__
+.ipynb_checkpoints
+/scraper/log.txt
