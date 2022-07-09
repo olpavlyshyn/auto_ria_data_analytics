@@ -6,3 +6,5 @@ __pycache__
 /analysis/__pycache__
 .ipynb_checkpoints
 /scraper/log.txt
+/scraper/autoria_scraper/src/autoria_scraper.egg-info
+/scraper/autoria_scraper/dist
